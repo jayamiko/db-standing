@@ -1,0 +1,28 @@
+{
+  "standings": [
+    {
+      "id": 1,
+      "club": "Chelsea Fc",
+      "sg": "10",
+      "point": "50"
+    },
+    {
+      "id": 2,
+      "club": "Manchester City",
+      "sg": "8",
+      "point": "48"
+    },
+    {
+      "id": 3,
+      "club": "Liverpool Fc",
+      "sg": "11",
+      "point": "47"
+    },
+    {
+      "id": 4,
+      "club": "Tottenham Hotspur",
+      "sg": "1",
+      "point": "40"
+    }
+  ]
+}
